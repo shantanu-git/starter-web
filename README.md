@@ -10,3 +10,6 @@ This is the tutorial to show how to use git and github both
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+### Copyright 
+	@2014
